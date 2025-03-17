@@ -9,14 +9,14 @@ Gathering knowledge about Adenosine (A) to Inosine (i) RNA Editing, a.k.a. A-to-
 ```mermaid
 ---
 config:
-  theme: forest
+  theme: neutral
   look: classic
 ---
 graph TD
     A[Reference genome]
     B[Raw reads]
     C[List of SNPs]
-    D(AliNe)
+    D{AliNe}
     A-->D
     B-->D
     E["bam (sorted)"]
