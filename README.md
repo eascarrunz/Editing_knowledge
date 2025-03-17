@@ -1,6 +1,6 @@
 # Editing_knowledge
 
-Gathering knowledge about Adenosine (A) to Inosine (i) RNA Editing, a.k.a. A-to-I editing.
+Gathering knowledge about Adenosine (A) to Inosine (i) RNA Editing, a.k.a. A-to-I editing.  
 <img align="right" src="assets/IRD.png" width="200" height="66" /> <img align="right" src="assets/MIVEGEC.png" width="100" height="66" />
 <br>
 <br>
