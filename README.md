@@ -2,6 +2,9 @@
 
 Gathering knowledge about Adenosine (A) to Inosine (i) RNA Editing, a.k.a. A-to-I editing.
 
+---------------------------
+<img src="img/IRD.png" width="300" height="100" /> <img src="img/MIVEGEC.png" width="150" height="100" />
+
 ## Pipeline
 
 ### Sketch
