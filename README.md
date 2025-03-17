@@ -1,9 +1,10 @@
 # Editing_knowledge
 
 Gathering knowledge about Adenosine (A) to Inosine (i) RNA Editing, a.k.a. A-to-I editing.
-
----------------------------
-<img src="img/IRD.png" width="300" height="100" /> <img src="img/MIVEGEC.png" width="150" height="100" />
+<img align="right" src="assets/IRD.png" width="200" height="66" /> <img align="right" src="assets/MIVEGEC.png" width="100" height="66" />
+<br>
+<br>
+<br>
 
 ## Pipeline
 
