@@ -95,17 +95,18 @@ Supplementary Tables 4 and 5).
 
 ## Tools
 
-| Name                    | Year | Publication    | Repo                                              | In Bioconda | Container |
-| :---------------------- | :--- | :------------- | ------------------------------------------------- | ----------- | - |
-| [Reditools](#reditools) | 2013 | @picardi2013   | [Link](https://github.com/BioinfoUNIBA/REDItools) | No (v1.0.4 only in mtangaro channel) |   |
-| Giremi                  | 2015 | @zhang2015     | [Link](https://github.com/zhqingit/giremi)        | No          | - |
-| RES-Scanner             | 2016 | @wang2016      | [Link](https://github.com/ZhangLabSZ/RES-Scanner) | No          |   |
-| JACUSA                  | 2017 | @piechotta2017 | [Link](https://github.com/dieterich-lab/JACUSA)   | No          | - |
-| Sprint                  | 2017 | @zhang2017     | [Link](https://github.com/jumphone/SPRINT)        | No          | - |
-| [RESIC](#resic)         | 2021 | @light2021     | [Link](https://github.com/Lammlab/Resic)          | No          | - |
-| JACUSA2                 | 2022 | @piechotta2022 | [Link](https://github.com/dieterich-lab/JACUSA2)  | No (in piechottam channel)         | - |
-| L-Giremi                | 2023 | @liu2023       | [Link](https://github.com/gxiaolab/L-GIREMI)      | No          | - |
-| LoDEI                | 2024 | ----       | [Link](-----)      | --          | - |
+| Name                    | Year | Publication    | Repo                                              | In Bioconda                          | Container |
+| :---------------------- | :--- | :------------- | ------------------------------------------------- | ------------------------------------ | --------- |
+| [Reditools](#reditools) | 2013 | @picardi2013   | [Link](https://github.com/BioinfoUNIBA/REDItools) | No (v1.0.4 only in mtangaro channel) |           |
+| Giremi                  | 2015 | @zhang2015     | [Link](https://github.com/zhqingit/giremi)        | No                                   | -         |
+| RES-Scanner             | 2016 | @wang2016      | [Link](https://github.com/ZhangLabSZ/RES-Scanner) | No                                   |           |
+| JACUSA                  | 2017 | @piechotta2017 | [Link](https://github.com/dieterich-lab/JACUSA)   | No                                   | -         |
+| Sprint                  | 2017 | @zhang2017     | [Link](https://github.com/jumphone/SPRINT)        | No                                   | -         |
+| [RESIC](#resic)         | 2021 | @light2021     | [Link](https://github.com/Lammlab/Resic)          | No                                   | -         |
+| JACUSA2                 | 2022 | @piechotta2022 | [Link](https://github.com/dieterich-lab/JACUSA2)  | No (in piechottam channel)           | -         |
+| [FLAIR2](#flair2)       | 2024 | @tang2024      | [Link](https://github.com/BrooksLabUCSC/flair)    | Yes                                  | Yes       |
+| [L-Giremi](#l-giremi)   | 2023 | @liu2023       | [Link](https://github.com/gxiaolab/L-GIREMI)      | No                                   | -         |
+| LoDEI                   | 2024 | ----           | [Link](-----)                                     | --                                   | -         |
 
 List of machine-learning methods for *predicting* editing sites from @chen2023:
 
@@ -122,6 +123,14 @@ However, we might want to draw inspiration from Resic's alignment workflow.
 ![Resic's alignment graph](assets/resic_alignment_graph.png)
 
 ![Resic recoding workflow](assets/resic_recoding.png)
+
+## L-Giremi
+
+For long reads.
+
+## FLAIR2
+
+For long reads.
 
 ## Filters
 
